@@ -68,4 +68,8 @@ N/A
 
 Use Insomnia to test this application
 
+(Video showing how to run schema, seeds, and init server)
+https://app.castify.com/view/a7ab6426-3481-4f06-b790-31ed33837438
+
+(Video showing Insomnia testing)
 https://app.castify.com/view/6cd1ed87-a8b3-42ed-bc8d-76b417e10b4d
